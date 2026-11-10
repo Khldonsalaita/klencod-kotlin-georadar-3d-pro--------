@@ -1,0 +1,6 @@
+{
+  "name": "GeoRadar 3D Pro - رادار اختراق الأرض",
+  "description": "منصة احترافية لمعالجة وتحليل بيانات رادار اختراق الأرض (GPR) مع تشكيل حجمي ثلاثي الأبعاد وفلاتر جيوفيزيائية معيارية.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
